@@ -7,7 +7,9 @@ These functions are both past assignments for the class MECH-105 and useful reso
 # Using NumericalMethodsAlgorithms Functions
 1. Download the repository.
 2. Move it to your local MATLAB directory.
+
 **In code:**
 Type **functionName(input1, input2, ...)** where necessary
+
 **In the command window:**
 Type **[output1, output2, ...] = functionName(input1, input2, ...)** 
