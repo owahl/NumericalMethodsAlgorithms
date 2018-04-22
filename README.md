@@ -5,9 +5,12 @@ The NumericalMethodsAlgorthms repositroy contains algorithms created in MECH-105
 These functions are both past assignments for the class MECH-105 and useful resources for future MATLAB coding.
 
 # Using NumericalMethodsAlgorithms Functions
+**In code:**
 1. Download the repository.
 2. Move it to your local MATLAB directory.
-3. **In code:**
-* Type **functionName(input1, input2, ...)** where necessary
+3. Type **functionName(input1, input2, ...)** where necessary
+
 **In the command window:**
-* Type **[output1, output2, ...] = functionName(input1, input2, ...)** 
+1. Download the repository.
+2. Move it to your local MATLAB directory.
+3. Type **[output1, output2, ...] = functionName(input1, input2, ...)** into the command window
