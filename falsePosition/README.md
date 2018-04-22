@@ -15,3 +15,6 @@ The falsePosition function uses the false position method to calculate the root 
 * fx = the function evaluated at the root location
 * ea = the appropriate relative error (%)
 * iter = how many iterations were performed
+
+**Limitations:**
+* The xl and xu bounds must bracket the root
