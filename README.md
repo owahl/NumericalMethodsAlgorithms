@@ -15,4 +15,4 @@ These functions are past assignments from the class MECH-105 and are useful reso
 2. Move it to your local MATLAB directory.
 3. Type **[output1, output2, ...] = functionName(input1, input2, ...)** into the command window
 
-To learn more about each function, navigate to the appropriate folde
+To learn more about each function, navigate to the appropriate folder
