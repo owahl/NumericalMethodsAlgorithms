@@ -7,5 +7,5 @@ The Simpson algorithm integrates experimental data using Simpson's 1/3 rule. If 
 * x-equally spaced input values
 * y-output values
 
-**Output:**
+**Output:*
 * I-the integral of the data
