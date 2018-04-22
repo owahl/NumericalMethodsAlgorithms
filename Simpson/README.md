@@ -8,4 +8,4 @@ The Simpson algorithm integrates experimental data using Simpson's 1/3 rule. If 
 * y-output values
 
 **Output:**
-* I-the integral of the data
+* I-the integral of the dat
