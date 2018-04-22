@@ -10,4 +10,4 @@ partial pivoting and gaussean elimination.
 **Outputs:**
 * L-lower triangular matrix
 * U-upper triangular matrix
-* P-the pivot matri
+* P-the pivot matrix
