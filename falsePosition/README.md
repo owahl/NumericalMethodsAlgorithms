@@ -14,4 +14,4 @@ The falsePosition function uses the false position method to calculate the root 
 * root = the estimated root location
 * fx = the function evaluated at the root location
 * ea = the appropriate relative error (%)
-* iter = how many iterations were performed
+* iter = how many iterations were performe
