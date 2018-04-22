@@ -1,6 +1,7 @@
 # falsePosition Algorithm
-The falsePosition function uses the false position method to calculate the root of a given mathematical function
-**NOTE:** You MUST use the function handle "@(var)func" in order to input the desired mathematical function
+The falsePosition function uses the false position method to calculate the root of a given mathematical function. The false position method is a closed method that uses bracketing to close in on the root of the function.
+
+**NOTE:** You *MUST* use the function handle "@(var)func" in order to input the desired mathematical function. Create the function using this method before using the function.
 
 **Input:**
 * func = the function being evaluated
