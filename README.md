@@ -8,11 +8,11 @@ These functions are past assignments from the class MECH-105 and are useful reso
 **In code:**
 1. Download the repository.
 2. Move the MATLAB files to your local MATLAB directory.
-3. Type **functionName(input1, input2, ...)** where necessary
+3. Type **functionName(input1, input2, ...)** where necessary.
 
 **In the command window:**
 1. Download the repository.
 2. Move the MATLAB files to your local MATLAB directory.
-3. Type **[output1, output2, ...] = functionName(input1, input2, ...)** into the command window
+3. Type **[output1, output2, ...] = functionName(input1, input2, ...)** into the command window.
 
-To learn more about each function, navigate to the appropriate folder
+To learn more about each function, navigate to the appropriate folder.
